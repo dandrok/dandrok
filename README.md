@@ -1,4 +1,4 @@
-### Hi there, My name is Patryk 👋
+### Hi there, My name is Patryk 
 
 
 
