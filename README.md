@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working on myself 😂
-- 🌱 I’m currently learning react 
 - 💬 Ask me about anything 😁
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/patryk-stusik-aa863b170/" target="_blank" rel="noopener noreferrer">linkedin</a>
 
