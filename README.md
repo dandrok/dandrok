@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on myself 😂
 - 💬 Ask me about anything 😁
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/patryk-stusik-aa863b170/" target="_blank" rel="noopener noreferrer">linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/patryk-stusik/" target="_blank" rel="noopener noreferrer">linkedin</a>
 
 
 
