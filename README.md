@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on myself 😂
 - 💬 Ask me about anything 😁
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/patryk-stusik/" target="_blank" rel="noopener noreferrer">linkedin</a>
-- <a  href="https://www.codewars.com/users/dandrok" target="_blank"  rel="noopener noreferrer"><img src='https://www.codewars.com/users/dandrok/badges/small'/></a>
+
 
 
 
@@ -24,3 +24,7 @@ I'm currently learning...
 
 
 
+   
+
+___
+<a  href="https://www.codewars.com/users/dandrok" target="_blank"  rel="noopener noreferrer"><img src='https://www.codewars.com/users/dandrok/badges/large'/></a>
