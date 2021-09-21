@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on myself 😂
 - 💬 Ask me about anything 😁
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/patryk-stusik/" target="_blank" rel="noopener noreferrer">linkedin</a>
+- 👇 Check my codewars.com account below and register <a href="www.codewars.com/r/YYV20g" target="_blank" rel="noopener noreferrer">HERE!</a> 
 
 
 
