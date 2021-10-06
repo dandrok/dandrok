@@ -15,12 +15,12 @@ What I speak...
 
 Tools I'm Using...
 <p><img src="https://s2.svgbox.net/files.svg?ic=git&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/files.svg?ic=sass&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/files.svg?ic=npm&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/files.svg?ic=vscode&color=000000" width="32" height="32"></p>
-
+<!-- 
 Familiar with...
-<p><img src="https://s2.svgbox.net/files.svg?ic=tailwind&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/files.svg?ic=yarn&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/social.svg?ic=wordpress&color=000000" width="32" height="32"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="32" height="32"> </p>
+<p><img src="https://s2.svgbox.net/files.svg?ic=tailwind&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/files.svg?ic=yarn&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/social.svg?ic=wordpress&color=000000" width="32" height="32"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="32" height="32"> </p> -->
 
 I'm currently learning...
-<p><img src="https://s2.svgbox.net/files.svg?ic=reactjs&color=000000" width="32" height="32"></p>
+<p><img src="https://s2.svgbox.net/files.svg?ic=reactjs&color=000000" width="32" height="32"><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="32" height="32"></p>
 
 
 
