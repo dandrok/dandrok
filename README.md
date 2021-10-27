@@ -27,7 +27,7 @@ Familiar with...
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandrok&layout=compact&hide=html)](https://github.com/dandrok)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandrok&layout=compact&hide=html&theme=default)](https://github.com/dandrok)
 
 
 ___
