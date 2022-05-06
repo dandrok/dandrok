@@ -11,6 +11,11 @@
    <a  href="https://www.codewars.com/users/dandrok" target="_blank"  rel="noopener noreferrer"><img src='https://www.codewars.com/users/dandrok/badges/micro'/></a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandrok&layout=compact&hide=html,css,scss&theme=github_dark)](https://github.com/dandrok)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dandrok&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD930D)](https://git.io/streak-stats)
+
+
 
 <!-- What I speak...
 <p><img src="https://s2.svgbox.net/files.svg?ic=js-official&color=000000" width="32" height="32"> <img src="https://s2.svgbox.net/files.svg?ic=html&color=000000" width="32" height="32"> <img src="https://s2.svgbox.net/files.svg?ic=css&color=000000" width="32" height="32"></p> -->
@@ -27,7 +32,6 @@ Familiar with...
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandrok&layout=compact&hide=html&theme=github_dark)](https://github.com/dandrok)
 
 
 ___
