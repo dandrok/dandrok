@@ -6,7 +6,6 @@
 
 - 🔭 I’m still working on myself 😂
 - 💬 Ask me about anything 😁
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/patryk-stusik/" target="_blank" rel="noopener noreferrer">linkedin</a>
 - 👇 Check my codewars.com account below <br><br>
    <a  href="https://www.codewars.com/users/dandrok" target="_blank"  rel="noopener noreferrer"><img src='https://www.codewars.com/users/dandrok/badges/micro'/></a>
 
