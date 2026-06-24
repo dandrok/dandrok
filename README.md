@@ -1,37 +1,25 @@
-### Hi there, My name is Patryk 👋
+# Senior Frontend & Systems Automation Engineer
 
+I am a pragmatist, an automation-driven engineer, and a tech dropout who built a senior-level career through relentless, independent execution. I don’t just write interface code; I break down systemic friction across the entire application stack. 
 
+The future of software engineering belongs to architects who orchestrate AI rather than fight it. I actively integrate programmatic LLM loops and AI agent pipelines into my daily workflow to achieve extreme development velocity.
 
+---
 
+### 🛠️ Execution Spectrum
 
-- 🔭 I’m still working on myself 😂
-- 💬 Ask me about anything 😁
-- 👇 Check my codewars.com account below <br><br>
-   <a  href="https://www.codewars.com/users/dandrok" target="_blank"  rel="noopener noreferrer"><img src='https://www.codewars.com/users/dandrok/badges/micro'/></a>
+* **Frontend & Architecture (Primary Focus):** Deep production experience building scalable, multi-tenant UI systems and client architectures serving millions of users across 8+ international brands.
+* **Pragmatic Backend & DevOps:** Not just a UI developer. I routinely cross into the backend (Node.js) and infrastructure to design robust API contracts, fix broken deployment pipelines, hunt down flaky testing bottlenecks, and reverse-engineer legacy bugs.
+* **Security & Quality:** Former corporate Security Champion. I manage the full lifecycle of shipping secure code, optimizing web performance, and writing deterministic automated tests.
+* **Algorithmic Foundation:** <a  href="https://www.codewars.com/users/dandrok" target="_blank"  rel="noopener noreferrer"><img src='https://www.codewars.com/users/dandrok/badges/micro'/></a>
+. I optimize for strict time/space complexity ($O(1)$ / $O(N)$ logic) rather than just pushing pixels.
 
+### 🖥️ High-Velocity Working Environment
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandrok&layout=compact&hide=html,css,scss&theme=github_dark)](https://github.com/dandrok)
+I operate entirely within a distraction-free, terminal-centric environment tailored for maximum keyboard-driven efficiency and deep work:
+* **Operating System:** Arch Linux (Omarchy / EndeavourOS) wrapped in minimalist tiling window managers (Hyprland / Sway).
+* **Core Editor:** Keyboard-driven NeoVim environment customized via LazyVim with strict LSP, Treesitter, and custom keybinding profiles.
+* **AI Tooling:** Advanced integration of CLI-native AI tools and Model Context Protocol (MCP) servers to automate repetitive engineering overhead.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dandrok&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD930D)](https://git.io/streak-stats)
-
-
-
-<!-- What I speak...
-<p><img src="https://s2.svgbox.net/files.svg?ic=js-official&color=000000" width="32" height="32"> <img src="https://s2.svgbox.net/files.svg?ic=html&color=000000" width="32" height="32"> <img src="https://s2.svgbox.net/files.svg?ic=css&color=000000" width="32" height="32"></p> -->
-
-<!-- Tools I'm Using...
-<p><img src="https://s2.svgbox.net/files.svg?ic=git&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/files.svg?ic=sass&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/files.svg?ic=npm&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/files.svg?ic=vscode&color=000000" width="32" height="32"></p> -->
-<!-- 
-Familiar with...
-<p><img src="https://s2.svgbox.net/files.svg?ic=tailwind&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/files.svg?ic=yarn&color=000000" width="32" height="32"><img src="https://s2.svgbox.net/social.svg?ic=wordpress&color=000000" width="32" height="32"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="32" height="32"> </p> -->
-
-<!-- I'm currently learning...
-<p><img src="https://s2.svgbox.net/files.svg?ic=reactjs&color=000000" width="32" height="32"><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="32" height="32"></p> -->
-
-
-
-
-
-
-___
-
+### 💡 Engineering Philosophy
+> Technology moves too fast for rigid specializations. I am constantly tearing down unfamiliar stacks, exploring language internals, and adapting to new architectural paradigms. I don't wait for permission or documentation—if a business logic layer or a deployment pipeline is blocking product delivery, I jump in, debug the root cause, and fix it.
