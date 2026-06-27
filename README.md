@@ -2,8 +2,6 @@
 
 I am a pragmatist, an automation-driven engineer, and a tech dropout who built a senior-level career through relentless, independent execution. I don’t just write interface code; I break down systemic friction across the entire application stack. 
 
-The future of software engineering belongs to architects who orchestrate AI rather than fight it. I actively integrate programmatic LLM loops and AI agent pipelines into my daily workflow to achieve extreme development velocity.
-
 ---
 
 ### 🛠️ Execution Spectrum
