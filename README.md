@@ -8,4 +8,4 @@ I'm really passionate about solving problems - usually in a pragmatic way. I lov
 Never stop learning, and try to be a better version of yourself every single day - consistency is key, and I know it from experience.
 
 ## other
-Other than that, I really like being productive, and I'm interested in self-improvement as a whole — optimizing my life overall, like sleep schedule, diet, exercise, and brain health. Kind of biohacking and wellness of the whole body and mind.
+Other than that, I really like being productive, and I'm interested in self-improvement as a whole - optimizing my life overall, like sleep schedule, diet, exercise, and brain health. Kind of biohacking and wellness of the whole body and mind.
