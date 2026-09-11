@@ -1,23 +1,11 @@
-# Senior Frontend & Systems Automation Engineer
+## about me
+Hi, I'm Patryk, welcome to my GitHub page. When you scroll down to my contribution chart you may be impressed by it — but don't worry, you shouldn't be. I try to be consistent and stick to my habits, and one of them is coding — regularly contributing to my GitHub. There was a time in my career when I set myself a challenge to solve at least one Codewars kata every single day, and at some point I figured I'd start committing my solutions to GitHub too. Of course there are also some of my personal, usually open-source projects, and some more private personal projects.
 
-I am a pragmatist, an automation-driven engineer, and a tech dropout who built a senior-level career through relentless, independent execution. I don’t just write interface code; I break down systemic friction across the entire application stack. 
+## what am I hacking right now?
+I'm really passionate about solving problems — usually in a pragmatic way. I love hacking and breaking problems into small pieces. Currently I'm expanding my knowledge of backend engineering in Node.js, some cloud work with AWS, and Linux/terminals — I really like TUI/CLI applications and have built a few myself as open source.
 
----
+## my motto in life
+Never stop learning, and try to be a better version of yourself every single day — consistency is key, and I know it from experience.
 
-### 🛠️ Execution Spectrum
-
-* **Frontend & Architecture (Primary Focus):** Deep production experience building scalable, multi-tenant UI systems and client architectures serving millions of users across 8+ international brands.
-* **Pragmatic Backend & DevOps:** Not just a UI developer. I routinely cross into the backend (Node.js) and infrastructure to design robust API contracts, fix broken deployment pipelines, hunt down flaky testing bottlenecks, and reverse-engineer legacy bugs.
-* **Security & Quality:** Former corporate Security Champion. I manage the full lifecycle of shipping secure code, optimizing web performance, and writing deterministic automated tests.
-* **Algorithmic Foundation:** <a  href="https://www.codewars.com/users/dandrok" target="_blank"  rel="noopener noreferrer"><img src='https://www.codewars.com/users/dandrok/badges/micro'/></a>
-. I optimize for strict time/space complexity ($O(1)$ / $O(N)$ logic) rather than just pushing pixels.
-
-### 🖥️ High-Velocity Working Environment
-
-I operate entirely within a distraction-free, terminal-centric environment tailored for maximum keyboard-driven efficiency and deep work:
-* **Operating System:** Arch Linux (Omarchy / EndeavourOS) wrapped in minimalist tiling window managers (Hyprland / Sway).
-* **Core Editor:** Keyboard-driven NeoVim environment customized via LazyVim with strict LSP, Treesitter, and custom keybinding profiles.
-* **AI Tooling:** Advanced integration of CLI-native AI tools and Model Context Protocol (MCP) servers to automate repetitive engineering overhead.
-
-### 💡 Engineering Philosophy
-> Technology moves too fast for rigid specializations. I am constantly tearing down unfamiliar stacks, exploring language internals, and adapting to new architectural paradigms. I don't wait for permission or documentation—if a business logic layer or a deployment pipeline is blocking product delivery, I jump in, debug the root cause, and fix it.
+## other
+Other than that, I really like being productive, and I'm interested in self-improvement as a whole — optimizing my life overall, like sleep schedule, diet, exercise, and brain health. Kind of biohacking and wellness of the whole body and mind.
